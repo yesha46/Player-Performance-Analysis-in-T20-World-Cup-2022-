@@ -1,7 +1,7 @@
 # T20 World Cup 2022 Player Analysis Dashboard
 
 ## Overview
-This Power BI dashboard provides a detailed analysis of player performances in the T20 World Cup 2022. The data was scraped from ESPN using web scraping techniques and cleaned using pandas in a Jupyter Notebook. The analysis focuses solely on player performances, categorizing players into five distinct roles: opener, middle order, finisher, bowler, and all-rounder, with unique criteria for each category.
+This Power BI dashboard provides a comprehensive analysis of player performances in the T20 World Cup 2022. The dashboard categorizes players into five roles—opener, middle order, finisher, bowler, and all-rounder—based on specific performance criteria. Through this role-based segmentation, the dashboard offers insights into each player’s contributions, enabling a focused comparison within and across roles.
 
 ## Features
 - **Player Performance Analysis**: Detailed statistics on individual player performances including runs scored, wickets taken, strike rates, and more.
