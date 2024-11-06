@@ -13,11 +13,6 @@ This Power BI dashboard provides a detailed analysis of player performances in t
   - **All-Rounder**
 - **Interactive Filters and Slicers**: Allows users to filter data by player roles, names, match types, and more to drill down into specific details.
 
-## Data Collection and Cleaning
-The data was collected from ESPN using web scraping techniques and cleaned using pandas in a Jupyter Notebook. The steps involved in data collection and cleaning include:
-1. **Web Scraping**: Extracting player statistics from ESPN.
-2. **Data Cleaning**: Handling missing values, data transformation, and normalization using pandas.
-
 ## How to Use
 1. **Download the Dashboard File**:
    - Download the `T20_WorldCup_2022_Analysis.pbix` file from this repository.
@@ -40,18 +35,6 @@ The data was collected from ESPN using web scraping techniques and cleaned using
 2. Clone this repository or download the `.pbix` file directly.
 3. Open the `.pbix` file in Power BI Desktop to start exploring the dashboard.
 
-## Data Cleaning Jupyter Notebook
-- The data cleaning process is documented in the `data_cleaning.ipynb` Jupyter Notebook file. This notebook includes all the steps taken to transform the raw data into a clean and usable format for analysis in Power BI.
 
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure you follow the standard guidelines for Power BI dashboard development.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-**[Kenil Dhola]**
-- LinkedIn: [Kenil Dhola](www.linkedin.com/in/kenildhola010)
-- GitHub: [kenildhola010](https://github.com/kenildhola010)
 
 
